@@ -1,4 +1,4 @@
-// Yup, It's just Emulator.JS under the hood. I'm too fucking lazy to code it myself womp womp
+// Yup, It's just Emulator.JS under the hood. I'm too lazy to code it myself womp womp
 
 // Function vars
 var chunkSize = 10240000;
