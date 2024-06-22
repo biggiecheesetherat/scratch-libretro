@@ -1,3 +1,5 @@
+// Yup, It's just Emulator.JS under the hood. I'm too fucking lazy to code it myself womp womp
+
 // Function vars
 var chunkSize = 10240000;
 var dlProgress = 0;
